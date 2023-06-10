@@ -228,6 +228,7 @@ ol {
 .menu section li ul li ul {
   right: -217px;
   top: 0px;
+  text-size-adjust:inherit ;
 }
 
 .boton_home{
