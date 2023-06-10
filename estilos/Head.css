@@ -269,7 +269,10 @@ ol {
     width: 1349px;
 }
 
-
+.imgfb{
+    width: 98px;
+    
+}
 
 @media (max-width:500px){
     .menu{
